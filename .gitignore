@@ -1,0 +1,10 @@
+# vagrant stuff
+.vagrant
+
+# Symfony2 Stuff
+/web/bundles/
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
+/vendor/
+/app/config/parameters.yml

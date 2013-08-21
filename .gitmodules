@@ -1,0 +1,27 @@
+[submodule "vagrant_resources/cookbooks/apt"]
+	path = vagrant_resources/cookbooks/apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "vagrant_resources/cookbooks/build-essential"]
+	path = vagrant_resources/cookbooks/build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "vagrant_resources/cookbooks/php"]
+	path = vagrant_resources/cookbooks/php
+	url = https://github.com/opscode-cookbooks/php.git
+[submodule "vagrant_resources/cookbooks/mysql"]
+	path = vagrant_resources/cookbooks/mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "vagrant_resources/cookbooks/git"]
+	path = vagrant_resources/cookbooks/git
+	url = https://github.com/opscode-cookbooks/git.git
+[submodule "vagrant_resources/cookbooks/nginx"]
+	path = vagrant_resources/cookbooks/nginx
+	url = https://github.com/opscode-cookbooks/nginx.git
+[submodule "vagrant_resources/cookbooks/vim"]
+	path = vagrant_resources/cookbooks/vim
+	url = https://github.com/opscode-cookbooks/vim.git
+[submodule "vagrant_resources/cookbooks/sudo"]
+	path = vagrant_resources/cookbooks/sudo
+	url = https://github.com/opscode-cookbooks/sudo.git
+[submodule "vagrant_resources/cookbooks/ohai"]
+	path = vagrant_resources/cookbooks/ohai
+	url = https://github.com/opscode-cookbooks/ohai.git
