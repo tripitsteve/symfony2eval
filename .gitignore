@@ -1,3 +1,9 @@
+# OS X Stuff
+.DS_Store
+
+# VI Stuff
+*.swp
+
 # vagrant stuff
 .vagrant
 
